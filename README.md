@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natan Grayman | 💻 Data Scientist | 🌍 Israel, Tel Aviv <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natan Grayman | 💻 Data Scientist | 🌍 Israel, Tel Aviv <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif width="30 "
 <div>
 
 
