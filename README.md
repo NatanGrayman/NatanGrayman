@@ -9,8 +9,14 @@
 
 <div align="center">
    <h3>
-      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="40" height="23">
+      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="40" height="30">
       🙎 Natan Grayman | 💻 Electrical and Information Engineer | 🌍 Israel, Tel Aviv 
-      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="40" height="23">
+      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="40" height="30">
    </h3>
 </div>
+
+<br />
+<div align="center">
+   <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3oriOfobQE3iSYFbBC/giphy.gif" />
+</div>
+
