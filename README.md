@@ -8,8 +8,9 @@
 </p>
 
 <div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natan Grayman | 💻 Data Scientist | 🌍 Israel, Tel Aviv <img src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="30"></h3>
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natan Grayman | 💻 Data Scientist | 🌍 Israel, Tel Aviv <iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
 </div>
+
 
 <p align="center">
    <a href="https://twitter.com/natan_grayman"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/natan_grayman?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@natan_grayman"></a>
