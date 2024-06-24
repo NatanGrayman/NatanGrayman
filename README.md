@@ -8,16 +8,17 @@
 </p>
 
 <div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natan Grayman | 💻 Data Scientist | 🌍 Israel, Tel Aviv <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif width="30 "
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natan Grayman | 💻 Data Scientist | 🌍 Israel, Tel Aviv <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif width="30" "
 <div>
 
 <div align="center">
    <h3>
-      <iframe src="https://giphy.com/embed/SwImQhtiNA7io" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+      <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="30" height="30">
       🙎 Natan Grayman | 💻 Electrical and Information Engineer | 🌍 Israel, Tel Aviv 
-      <iframe src="https://giphy.com/embed/SwImQhtiNA7io" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+      <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="30" height="30">
    </h3>
 </div>
+
 
 <p align="center">
    <a href="https://twitter.com/natan_grayman"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/natan_grayman?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@natan_grayman"></a>
