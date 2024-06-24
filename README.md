@@ -8,7 +8,6 @@
    <a href="https://x.com/NatanGrayman"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-
 <div align="center">
    <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natan Grayman | 💻 Data Scientist | 🌍 Israel, Tel Aviv <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
