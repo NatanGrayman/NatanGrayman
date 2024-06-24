@@ -19,6 +19,13 @@
    </h3>
 </div>
 
+<div align="center">
+   <h3>
+      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="30" height="30">
+      🙎 Natan Grayman | 💻 Electrical and Information Engineer | 🌍 Israel, Tel Aviv 
+      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="30" height="30">
+   </h3>
+</div>
 
 <p align="center">
    <a href="https://twitter.com/natan_grayman"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/natan_grayman?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@natan_grayman"></a>
