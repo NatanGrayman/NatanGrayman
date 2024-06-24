@@ -8,22 +8,10 @@
 </p>
 
 <div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natan Grayman | 💻 Data Scientist | 🌍 Israel, Tel Aviv <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif width="30" "
-<div>
-
-<div align="center">
    <h3>
-      <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="50" height="50">
+      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="50" height="50">
       🙎 Natan Grayman | 💻 Electrical and Information Engineer | 🌍 Israel, Tel Aviv 
-      <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="40" height="40">
-   </h3>
-</div>
-
-<div align="center">
-   <h3>
-      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="30" height="30">
-      🙎 Natan Grayman | 💻 Electrical and Information Engineer | 🌍 Israel, Tel Aviv 
-      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="30" height="30">
+      <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="50" height="50">
    </h3>
 </div>
 
