@@ -9,7 +9,7 @@
 
 <div align="center">
    <h3>
-      ⚛️ Natan Grayman | 💻 Electrical and Information Engineer | 🌍 Johannesburg, South Africa 🇿🇦 | Tel Aviv, Israel 🇮🇱
+      ⚛️ Natan Grayman | 💻 Electrical and Information Engineer | 🌍 Johannesburg 🇿🇦 | Tel Aviv 🇮🇱
    </h3>
 </div>
 
