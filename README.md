@@ -15,8 +15,6 @@
 
 <div align="center">
    <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="40" height="40">
-   <br />
-   <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3oriOfobQE3iSYFbBC/giphy.gif" />
 </div>
 
 
