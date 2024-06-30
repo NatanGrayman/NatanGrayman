@@ -4,7 +4,7 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/natan-grayman-380142269/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://x.com/NatanGrayman"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://x.com/NatanGrayman"><img height="30" src="https://github.com/NatanGrayman/NatanGrayman/blob/eec38e8da178b303a6dea06f9c9d1090d309ef94/twitter.png"></a>&nbsp;&nbsp;
 </p>
 
 <div align="center">
