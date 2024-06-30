@@ -3,8 +3,9 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/natan-grayman-380142269/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/natan-grayman-380142269/"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
    <a href="https://x.com/NatanGrayman"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@natangrayman1"><img height="30" src="medium1.png"></a>&nbsp;&nbsp;
 </p>
 
 <div align="center">
